@@ -1,0 +1,10 @@
+.DS_Store
+build
+trash
+
+luna_pinyin.userdb
+easy_en.userdb
+user.yaml
+
+sync
+installation.yaml
