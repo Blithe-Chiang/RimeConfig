@@ -35,7 +35,7 @@ patch:
   "style/layout/candidate_spacing": 24 # 候选字间隔
   "style/layout/round_corner": 0 #候选字背景色块圆角幅度
 
-  "style/color_scheme": Micosoft
+  "style/color_scheme": mojave_dark
 
   preset_color_schemes:
     "Micosoft":
