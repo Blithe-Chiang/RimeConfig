@@ -3,6 +3,7 @@ build
 trash
 
 luna_pinyin.userdb
+luna_pinyin.userdb.old
 easy_en.userdb
 user.yaml
 
