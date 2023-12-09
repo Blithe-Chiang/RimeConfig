@@ -8,7 +8,7 @@ patch:
     - {schema: PY_c}
     # - schema: double_pinyin_flypy # 小鹤双拼
   switcher/hotkeys:
-    # - "Control+grave" # 注意是control+`，不是command+`
+    - "Control+Shift+4" # 注意是control+`，不是command+`
     - "F4" # 打开设置
   switcher/save_options:
     - full_shape
