@@ -1,12 +1,12 @@
 patch:
   schema_list:
     - schema: double_pinyin # 自然码
+    - schema: double_pinyin_flypy # 小鹤双拼
     - schema: wubi98 # 98五笔
     - schema: luna_pinyin # 全拼
     - {schema: tiger}
     - {schema: tigress}
     - {schema: PY_c}
-    # - schema: double_pinyin_flypy # 小鹤双拼
   switcher/hotkeys:
     - "Control+Shift+4" # 注意是control+`，不是command+`
     - "F4" # 打开设置
